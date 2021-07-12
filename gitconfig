@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nathandebaz266@gmail.com
+	name = Nathan Debaz
